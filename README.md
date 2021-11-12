@@ -2,7 +2,7 @@
 
 This project is meant to gather real-time data from coinbase and calculate VWAP value for specific pairs of cypto-currency.
 
-The Vwap class' methods are well documented and self-explanatory
+The Vwap class' methods are well documented and self-explanatory about the approach for data manipulation.
 
 ## Requirements
 
