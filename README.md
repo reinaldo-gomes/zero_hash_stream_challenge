@@ -13,7 +13,7 @@ The Vwap class' methods are well documented and self-explanatory
 
 Just run the main.py file, and you will get streamed VWAP values on your console output.
 
-Tests can be run with "pytest tests --cov=app" command.
+Tests can be run with "pytest tests --cov=app --cov-report term-missing" command.
 
 ## Features
 
