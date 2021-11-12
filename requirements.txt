@@ -1,0 +1,6 @@
+websockets~=10.0
+numpy~=1.21.4
+pytest~=6.2.5
+pytest-aio~=1.4.1
+pytest-cov~=3.0.0
+pytest-mock~=3.6.1
